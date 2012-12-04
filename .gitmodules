@@ -1,0 +1,12 @@
+[submodule "drunken-tyrion"]
+	path = drunken-tyrion
+	url = git://github.com/abacon/drunken-tyrion.git
+[submodule "glowing-octo-bear"]
+	path = glowing-octo-bear
+	url = git://github.com/abacon/glowing-octo-bear.git
+[submodule "mustached-octo-sansa"]
+	path = mustached-octo-sansa
+	url = git://github.com/abacon/mustached-octo-sansa.git
+[submodule "derp-wight"]
+	path = derp-wight
+	url = git://github.com/abacon/derp-wight.git
