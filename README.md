@@ -1,4 +1,4 @@
 octogit
 =======
 
-This repo is for the product.
+This repository is for the product.
